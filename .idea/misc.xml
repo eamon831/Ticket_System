@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/drawable/curved.xml" value="0.1835" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/drawable/ic_id.xml" value="0.1" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/drawable/profile.xml" value="0.1" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/drawable/rec_view.xml" value="0.1" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/drawable/rounded_background.xml" value="0.1835" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/activity_booking.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/activity_contact_us.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/activity_main.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/activity_main_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/activity_registration.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/activity_single_user.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/activity_tab.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/activity_web.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/confirm.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/fragment_tab.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/single_row.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Emon/StudioProjects/TicketSystem/app/src/main/res/layout/vetdatashow_recycler_row.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

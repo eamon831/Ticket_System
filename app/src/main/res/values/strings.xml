@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ticket System</string>
+
+    <string name="getInTouch">Get in touch with\n<b>Best Institute of Studies!</b></string>
+    <string name="map_key">map_key</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
