@@ -72,7 +72,7 @@ public class EventAdapter extends RecyclerView.Adapter<EventAdapter.WordViewHold
                     TextView tex;
                     d.setContentView(R.layout.confirm);
                     tex=d.findViewById(R.id.mes);
-                    tex.setText("Enter Your NHI Number For Book");
+                    tex.setText("Enter Your NID Number For Book");
 
                     Button ok=d.findViewById(R.id.add);
                     d.show();
