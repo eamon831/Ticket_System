@@ -112,8 +112,8 @@ public class EventAdapter extends RecyclerView.Adapter<EventAdapter.WordViewHold
                                 //Creating the notification object
                                 NotificationCompat.Builder notification=new NotificationCompat.Builder(holder.card.getContext(),"channel1");
                                 //notification.setAutoCancel(true);
-                                notification.setContentTitle("Hi this is a notification");
-                                notification.setContentText("Hello you");
+                                notification.setContentTitle("Successful");
+                                notification.setContentText("Booking Successful");
                                 notification.setSmallIcon(R.drawable.ic_launcher_background);
 
                                 //make the notification manager to issue a notification on the notification's channel
